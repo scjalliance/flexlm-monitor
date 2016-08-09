@@ -4,7 +4,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/scjalliance/flexlm"
+	"github.com/scjalliance/adskflex-monitor"
 )
 
 func main() {
